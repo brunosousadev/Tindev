@@ -8,7 +8,7 @@ import logo from '../assets/logo.svg';
 export default function Login({history}){
     const [username, setUsername] = useState('');
        
- async  function handelSubmit(e){
+        async  function handelSubmit(e){
         e.preventDefault();
 
         const response  = await api.post('/devs', {username,});
