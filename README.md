@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante a semana OmniStack 8.0, que é oferecida pela [Rocketseat](https://github.com/Rocketseat). O projeto envolve o desenvolvimento de uma aplicação do zero, trabalhado seu back-end, front-end.
 
-A aplicação será uma cópia do Tinder, porém voltado para desenvolvedores. A ideia é a mesma, mas você dará like ou dislike em devs com os quais tem vontade de codar junto. Utilizando a [API](https://api.github.com/users/) do github para encontrar os dados do dev e salvar em um banco da aplicação.
+A aplicação é uma cópia do Tinder, porém voltado para desenvolvedores. A ideia é a mesma, mas você dará like ou dislike em devs com os quais tem vontade de codar junto. Utilizando a [API](https://api.github.com/users/) do github para encontrar os dados do dev e salvar em um banco da aplicação.
 
 # Funcionamento da API do github
 
